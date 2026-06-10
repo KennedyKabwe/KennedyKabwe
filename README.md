@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=300&lines=Hi+there,+I'm+Kennedy+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-🎓 Third-year Electrical Engineering student.
+🎓 Third-year Electrical and Electronics Engineering(EEE) student.
 
 I enjoy building things at the intersection of hardware and software. My interests revolve around embedded systems, engineering simulation, PCB design,intelligent systems and using technology to solve practical problems.
 
