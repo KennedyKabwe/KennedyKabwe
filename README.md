@@ -11,7 +11,7 @@ This repository serves as a portfolio of my technical journey—featuring comple
 
 ## Core Technical Focus
 - **Hardware & Embedded:** Bare-metal AVR, Embedded C, PCB Design, Control Systems
-- **Software & Analysis:** C++ (Engineering Applications), Python (Data Analysis & Visualization)
+- **Software & Analysis:** C++ (Engineering Applications), Python (Data Analysis & Visualization), C (Embedded programming)
 - **Specialized Domains:** Engineering Simulation, AI in Engineering Systems
 
 ## Tools & Technologies
@@ -25,13 +25,26 @@ This repository serves as a portfolio of my technical journey—featuring comple
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+## Featured Projects
+
+### 🛠️ [Electrical Transformer simulator](https://github.com/yourusername/secondary-repo-name)
+*Implementation of simulation tools and analysis workflows targeting practical engineering problem-solving.*
+- **Focus:** Data Analysis, Modular design and programming, Engineering Simulation
+- **Tools:** Python, C++, VS Code
+
+### 📌 [Led light Controller](https://github.com/yourusername/primary-repo-name)
+*Comprehensive documentation and implementation of an introduction to AVR programming using bare C*
+- **Focus:** Bare-metal C, Technical Documentation
+- **Tools:** VScode, Embedded C, AVR, Git
+
 ## Current Focus
 - Developing bare-metal C firmware for AVR microcontrollers
 - Designing custom hardware prototypes using KiCad and EasyEDA
+- Engineering software and simulation tools
 - Modeling physical systems and integrating intelligent control with Python and C++
 
 ---
 
-📫 **Connect:** [LinkedIn](www.linkedin.com/in/kabwe-designer) | [Email](kabwekennedy023@gmail.com)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/yourusername) | [Email](mailto:your.email@domain.com)
 
 > Curiosity-driven. Purpose-focused. Always building.
