@@ -27,12 +27,12 @@ This repository serves as a portfolio of my technical journey—featuring comple
 
 ## Featured Projects
 
-### 🛠️ [Electrical Transformer simulator](https://github.com/yourusername/secondary-repo-name)
+### 🛠️ [Electrical Transformer simulator](https://github.com/KennedyKabwe/PrecisionTransformerSim.git)
 *Implementation of simulation tools and analysis workflows targeting practical engineering problem-solving.*
 - **Focus:** Data Analysis, Modular design and programming, Engineering Simulation
 - **Tools:** Python, C++, VS Code
 
-### 📌 [Led light Controller](https://github.com/yourusername/primary-repo-name)
+### 📌 [Led light Controller](https://github.com/KennedyKabwe/atmega2560-traffic-light.git)
 *Comprehensive documentation and implementation of an introduction to AVR programming using bare C*
 - **Focus:** Bare-metal C, Technical Documentation
 - **Tools:** VScode, Embedded C, AVR, Git
@@ -45,6 +45,6 @@ This repository serves as a portfolio of my technical journey—featuring comple
 
 ---
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/yourusername) | [Email](mailto:your.email@domain.com)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/kabwe-designer) | [Email](mailto:kabwekennedy023@gmail.com)
 
 > Curiosity-driven. Purpose-focused. Always building.
