@@ -32,6 +32,6 @@ This repository serves as a portfolio of my technical journey—featuring comple
 
 ---
 
-📫 **Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@domain.com)
+📫 **Connect:** [LinkedIn](www.linkedin.com/in/kabwe-designer) | [Email](kabwekennedy023@gmail.com)
 
 > Curiosity-driven. Purpose-focused. Always building.
